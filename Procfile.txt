@@ -1,0 +1,1 @@
+web gunicorn MOBILE-BANK-APP.wsgi:application --log-file -
